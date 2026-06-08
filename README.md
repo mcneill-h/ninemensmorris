@@ -5,13 +5,18 @@ The algorithm is designed to work for Arduino microcontrollers, designed to dete
 
 Here is a graph on how the algorithm determines the best position: 
 <p align="center">
-<img width="905" height="314" alt="image" src="https://github.com/user-attachments/assets/36fed8bc-38c6-417a-a0cf-b5f8e3487d88" />
+<img width="905" height="419" alt="598748437-36fed8bc-38c6-417a-a0cf-b5f8e3487d88" src="https://github.com/user-attachments/assets/de71b23d-07db-490c-92b3-6a91731c71ba" />
 </p>
 Here is how the circuit looks in real life, along with a digital PCB version that can be manufactured:
 <p align="center">
-<img width="288" height="428" alt="image" src="https://github.com/user-attachments/assets/f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" /> <img width="630" height="428" alt="image" src="https://github.com/user-attachments/assets/e5ea97cc-8e90-4151-a580-445d88fca891" />
+<img width="288" height="427" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> <img width="630" height="429" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />
 </p>
 This is the digital representation I used to know the position of each pieces:
 <p align="center">
 <img width="1093" height="1127" alt="image" src="https://github.com/user-attachments/assets/59d75276-9d27-458b-ba0b-3838831da0c3" />
 </p>
+
+
+
+
+
