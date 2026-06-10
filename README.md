@@ -1,4 +1,7 @@
 # Minimax-Algorithm-for-Mills-board-game
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">  <img src="https://img.shields.io/badge/Arduino-Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Microcontrollers">  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">  <img src="https://img.shields.io/badge/Release-v2.0.0-blue?style=for-the-badge" alt="Release">  <img src="https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge" alt="Open Source">
+</p>
 A C++ implementation of a Minimax AI for Nine Men's Morris (Mills board game), capable of evaluating board positions and calculating the best move up to 2-3 moves ahead. It is designed to work on Arduino microcontrollers and the online simulator Tinkercad; Built from scratch, no external code, and minimal set of libraries.
 
 The algorithm is designed to work for Arduino microcontrollers, designed to detect moves via dozens of electromagnetic sensors, so it is best to use the online simulator Tinkercad to try the program out. We just need to create a “Circuits” project, add a microcontroller to it, and copy paste the C++ code. By default, the program runs the opening-phase minimax; switching “in_beginning = true” to “false” activates the mid-game version.
