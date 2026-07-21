@@ -1,4 +1,4 @@
-# Minimax-Algorithm-for-Mills-board-game
+# Minimax Algorithm for Nine Men's Morris
 <p align="center">
 <img width="288" height="427" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> <img width="630" height="429" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />
 </p>
@@ -8,7 +8,7 @@
 </p>
 
 
-# What is this algorithm?
+# What is this minimax algorithm?
 This project is a C++ implementation of a Minimax AI for Nine Men's Morris (Mills board game), capable of evaluating board positions and calculating the best move up to 2-3 moves ahead. It is designed to work on Arduino microcontrollers and the online simulator Tinkercad.
 
 We were two people to work on this project, our goal was to build a physical version of the Nine Men's Morris board game, where an Al could play against a human user. The system relied on a circuit, linked to Arduino microcontrollers, designed to detect moves via dozens of electromagnetic sensors, and a self-made minimax algorithm to create the AI. After the player makes a move, the algorithm would then evaluate the positiona and respond to it with another move. We would use the small screen to display the response. 
