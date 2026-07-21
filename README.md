@@ -1,6 +1,6 @@
 # Minimax Algorithm for Nine Men's Morris
 <p align="center">
-<img width="259" height="384" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> <img width="567" height="386" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />
+<img width="567" height="386" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />  <img width="259" height="384" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> 
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ The first challenge was that the Arduino microcontroller we used didn’t have e
 
 Here is how the circuit looks in real life, along with a digital PCB version that can be manufactured:
 <p align="center">
-<img width="259" height="384" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> <img width="567" height="386" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />
+<img width="567" height="386" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />  <img width="259" height="384" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> 
 </p>
 
 However, although all individual components worked as intended, the flow of information between microcontrollers and captors was unstable. In fact, it seemed that our circuit required more voltage to make it work. Moreover, the information received and sent was too great to handle. Despite that, the separate algorithms like the minimax program work perfectly on computer.
