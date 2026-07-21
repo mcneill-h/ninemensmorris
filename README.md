@@ -1,4 +1,4 @@
-# Minimax Algorithm for Nine Men's Morris
+# <p align="center"> Minimax Algorithm for Nine Men's Morris </p>
 <p align="center">
 <img width="567" height="386" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />  <img width="259" height="384" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> 
 </p>
