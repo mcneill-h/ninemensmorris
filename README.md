@@ -1,5 +1,9 @@
 # Minimax-Algorithm-for-Mills-board-game
 <p align="center">
+<img width="288" height="427" alt="598748397-f7187b93-0a9d-4cb1-b4f7-5df7a055a10f" src="https://github.com/user-attachments/assets/894e80e7-948d-4efa-806e-3e8ee582fb77" /> <img width="630" height="429" alt="598748369-e5ea97cc-8e90-4151-a580-445d88fca891" src="https://github.com/user-attachments/assets/ec260458-c6d5-43b4-89c8-ddb4f2e98dc4" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">  <img src="https://img.shields.io/badge/Arduino-Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Microcontrollers">  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">  <img src="https://img.shields.io/badge/Release-v2.0.0-blue?style=for-the-badge" alt="Release">  <img src="https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge" alt="Open Source">
 </p>
 
