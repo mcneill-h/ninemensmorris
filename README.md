@@ -17,6 +17,8 @@ I was responsible for designing and building the minimax program and the electri
 
 The minimax algorithm from this repository was built from scratch, with no external code, and using a minimal set of libraries.
 
+No AI was used to generate the code or during the development of this project.
+After the program was completed, AI was used only once to clean up and improve the code’s readability, making it easier for people to understand when viewing it on this GitHub page.
 
 # Broad Program Explanation:
 
